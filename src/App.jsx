@@ -1,11 +1,10 @@
 import Weather from "./Weather";
 
-function App()
-{
+function App() {
     return (
-      <>
-          <Weather /> 
-      </>
+        <>
+            <Weather />
+        </>
     );
 }
 
